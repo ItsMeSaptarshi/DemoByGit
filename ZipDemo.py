@@ -1,5 +1,5 @@
-names = ("Sap","Das","NPS")
-comps = ("Dell","Mac","Razer")
+names = ("Sap","Das","NPS","Sasss")
+comps = ("Dell","Mac","Razer","Lenovo")
 
 zipped = set(zip(names,comps))
 print(zipped)
